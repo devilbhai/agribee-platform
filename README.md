@@ -1,61 +1,68 @@
-# AgriBee — Smart Agritech & Agribusiness Platform for India
+# AgriBee Seeds — High-Yield & Research Hybrid Seeds Gujarat
 
 [![Website](https://img.shields.io/badge/Official%20Website-agribee.in-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agribee.in)
-[![ERP Solution](https://img.shields.io/badge/AgriBoss%20ERP-agriboss.app-orange?style=for-the-badge&logo=appveyor&logoColor=white)](https://agriboss.app)
-[![AI Assistant](https://img.shields.io/badge/AgriBee%20AI-ai.agribee.in-blue?style=for-the-badge&logo=openai&logoColor=white)](https://ai.agribee.in)
-[![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=for-the-badge)](https://agribee.in)
+[![ISO Certified](https://img.shields.io/badge/Certification-ISO%209001%3A2015-gold?style=for-the-badge)](https://agribee.in)
+[![Sortex Tested](https://img.shields.io/badge/Germination-90%25%2B%20Lab%20Certified-blue?style=for-the-badge)](https://agribee.in)
+[![Seed Catalog](https://img.shields.io/badge/Product%20Catalog-130%2B%20Varieties-green?style=for-the-badge)](https://agribee.in)
 
-> **[AgriBee (agribee.in)](https://agribee.in)** is a digital ecosystem modernizing agricultural retail, fertilizer & pesticide distribution, farm management, and farmer engagement across India.
-
----
-
-## 🌾 Overview
-
-Indian agriculture is home to over 300,000+ agricultural input dealers, fertilizer distributors, pesticide stockists, and Farmer Producer Organizations (FPOs). Yet most businesses still manage inventory, credit cycles, and compliance using paper books.
-
-**[AgriBee](https://agribee.in)** bridges this gap by providing purpose-built digital tools tailored specifically for the Indian agricultural supply chain.
-
-### Core Ecosystem Products:
-
-1. **[AgriBoss Agribusiness ERP & GST Billing](https://agriboss.app)**  
-   The specialized accounting, inventory, and point-of-sale software for pesticide and fertilizer retailers.
-   * Batch tracking with manufacturing and expiry dates.
-   * Fast GST invoicing and automated E-Way bill generation.
-   * Farmer credit (Udhar) and party ledger accounting with WhatsApp payment reminders.
-   * Multi-counter support and thermal receipt printing.
-
-2. **[AgriBee AI Farm Advisor](https://ai.agribee.in)**  
-   State-of-the-art agricultural artificial intelligence assistant.
-   * Instant crop disease and pest diagnosis.
-   * Chemical dosage, active ingredient formulation, and spray interval recommendations.
-   * Regional crop advisory tailored to Indian agricultural seasons (Kharif, Rabi, Zaid).
-
-3. **Smart Agri-Marketing & Regional Content Engine**  
-   Automated creation of branded product marketing posters, seasonal crop spray schedules, and festival greetings in regional languages (Gujarati, Hindi, and English) to boost dealer-to-farmer direct sales.
+> **[AgriBee Seeds Pvt Ltd (agribee.in)](https://agribee.in)** is an ISO 9001:2015 certified hybrid seed manufacturer and research company based in Rajkot, Gujarat. We empower farmers with scientifically bred, high-yield, pest-tolerant seeds and digital agronomy tools.
 
 ---
 
-## 🚀 Key Features
+## 🌾 About AgriBee Seeds
 
-| Capability | Feature Description | Platform |
-| :--- | :--- | :--- |
-| **GST Billing** | Tailored for seed, pesticide & fertilizer HSN codes | [AgriBoss ERP](https://agriboss.app) |
-| **Inventory Control** | Real-time stock alerts, batch-wise tracking, expiry dates | [AgriBoss ERP](https://agriboss.app) |
-| **Ledger Management** | Farmer credit cycles, supplier payments, WhatsApp statements | [AgriBoss ERP](https://agriboss.app) |
-| **AI Agronomy** | Real-time disease identification and remedy advisor | [AgriBee AI](https://ai.agribee.in) |
-| **Automated Posters** | High-conversion promotional creatives for agricultural shops | [AgriBee Social](https://social.agribee.in) |
+Headquartered in Kishan Gate, GIDC Metoda (Rajkot), AgriBee Seeds specializes in research, processing, and distribution of certified F1 hybrid and research agricultural seeds.
 
----
-
-## 🔗 Official Links & Resources
-
-* **Main Portal:** [https://agribee.in](https://agribee.in)
-* **AgriBoss App:** [https://agriboss.app](https://agriboss.app)
-* **AI Farming Assistant:** [https://ai.agribee.in](https://ai.agribee.in)
-* **Social Branding Hub:** [https://social.agribee.in](https://social.agribee.in)
+### Quality Pillars:
+* **🔬 Advanced Plant Breeding & Research:** Custom bred varieties adapted to drought tolerance, semi-arid conditions, and diverse Indian soil types.
+* **✨ Sortex Optical Seed Sorting:** Automated grading and optical color sorting that eliminates immature, broken, or diseased grains.
+* **🌱 90%+ Laboratory Germination Guarantee:** Rigorous laboratory testing for high field emergence, vigor, and seedling establishment.
+* **🛡️ Seed Health & Protection:** Pre-treated with specialized bio-coatings to prevent early soil-borne fungi, damping-off, and root rot.
 
 ---
 
-## 📄 License & Copyright
+## 🌽 Seed & Crop Portfolio
 
-© 2026 [AgriBee Technologies](https://agribee.in). All rights reserved.
+AgriBee offers a comprehensive portfolio of over **130+ certified varieties**:
+
+### 1. Oilseeds & Cash Crops
+* **Groundnut (Moongphali):** High pod count, uniform kernels, superior oil recovery — *AgriBee 909, AgriBee 999, AgriBee 24, AgriBee 37, AgriBee 11, AgriBee 2, AgriBee 20*.
+* **Sesame (Til):** White & black high-yielding varieties — *Siddhi 99, Siddhi Super, Siddhi Black, Gujarat 2, Gujarat 3*.
+* **Castor Seeds (Erandi):** Heavy branching, high capsule density — *AgriBee 111, AgriBee 222, GCH-2, GCH-7*.
+* **Mustard (Rai):** High oil percentage and early harvest — *Mustard 7+*.
+* **Soybean:** High protein and pod density — *Sunrise, Sunrise Plus*.
+
+### 2. Pulses & Food Grains
+* **Green Gram (Moong):** Bold shiny grains, Yellow Mosaic Virus (YMV) tolerance — *GreenGold, Crystal, Gujarat 4*.
+* **Black Gram (Urad):** Uniform pod filling — *Siddhi 88, Rudra, T-9*.
+* **Gram / Chickpea (Chana):** High branching, wilt tolerance — *AgriBee 3, Shiva 33*.
+* **Wheat Seeds:** Superior chapati quality & rust resistance — *Sona, Glory*.
+
+### 3. Spices & Condiments
+* **Cumin (Jeera):** Blight and wilt tolerant — *Pioneer 555, Kia 07*.
+* **Coriander (Dhana):** High aroma and essential oils — *AgriBee 2, AgriBee 999, Siddhi 999 (IMP), Sugandh*.
+* **Fenugreek (Methi):** High leafy biomass & seed yield — *Javra*.
+
+### 4. F1 Hybrid Vegetable Seeds
+* **Vegetables:** Hybrid Tomato (*Katrina*), Hybrid Chilli (*Karina*), Hybrid Bottle Gourd (*Shruti*), Sponge Gourd (*Sonika*), Watermelon (*BigBoss*), Cowpea (*Indu*), Onion (*Siddhi Red, Rani, Siddhi Red+, White Ruby*), and more.
+
+---
+
+## 📲 Smart Digital Tools for Farmers on AgriBee.in
+
+1. **[Interactive Seed Sowing Calendar](https://agribee.in):** Complete seasonal guide for Kharif, Rabi, and Summer sowing windows, soil requirements, and spacing.
+2. **[Per-Acre Seed Calculator](https://agribee.in):** Precise seed requirement calculation per acre/bigha to optimize sowing density and eliminate waste.
+3. **[Seed Batch Verifier](https://agribee.in):** Instant lot and batch verification ensuring farmers get 100% genuine AgriBee certified seeds.
+4. **Dealership & Distribution Network:** Supporting agricultural input dealers and distributors across Gujarat, Maharashtra, Rajasthan, MP, UP, and Karnataka.
+
+---
+
+## 📍 Contact & Inquiries
+
+* **Website:** [https://agribee.in](https://agribee.in)
+* **Plant & Head Office:** G1486, 'D' Road, Kishan Gate, GIDC Metoda, Rajkot, Gujarat 360021, India
+* **Dealership Inquiries:** [Apply on agribee.in](https://agribee.in)
+
+---
+
+© 2026 AgriBee Seeds Pvt Ltd. All rights reserved.
